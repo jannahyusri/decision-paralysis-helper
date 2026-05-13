@@ -1,2 +1,2 @@
-# decision-paralysis
+# decision-paralysis-helper
 Created with CodeSandbox
